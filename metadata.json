@@ -1,0 +1,6 @@
+{
+  "name": "VeriRupee - Transparent Crowdfunding Platform",
+  "description": "Milestone-based crowdfunding platform with escrow fund locking, proof-of-utilization verification, and transparent fund tracking. Track Every Rupee. Build Trust.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
